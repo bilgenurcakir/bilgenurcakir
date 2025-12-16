@@ -4,7 +4,7 @@ Welcome to my GitHub repository. I am a passionate developer with a focus on **M
 
 ## About Me
 - 🎓 Student at **Bursa Technical University**
-- 💡 Interested in **Machine Learning, Artificial Intelligence, and Frontend Development**
+- 💡 Interested in **Machine Learning, Artificial Intelligence, Frontend Development and CyberSecurity**
 - 🌱 Currently improving skills in **React Native and Deep Learning**
 - 📫 Contact: **bilgenurcakir26@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/bilgenur-çakır-27b917286](https://linkedin.com/in/bilgenur-çakır-27b917286)
