@@ -1,11 +1,10 @@
 # Bilgenur Çakır – GitHub Profile
 
-Welcome to my GitHub repository. I am a passionate developer with a focus on **Machine Learning, AI, and Web Development**. Here you can find my projects, experiments, and contributions to the developer community.
+Welcome to my GitHub repository 👋 . I am a passionate developer with a focus on **Machine Learning, AI, and CyberSecurity**. Here you can find my projects, experiments, and contributions to the developer community.
 
 ## About Me
 - 🎓 Student at **Bursa Technical University**
 - 💡 Interested in **Machine Learning, Artificial Intelligence, Frontend Development and CyberSecurity**
-- 🌱 Currently improving skills in **React Native and Deep Learning**
 - 📫 Contact: **bilgenurcakir26@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/bilgenur-çakır-27b917286](https://linkedin.com/in/bilgenur-çakır-27b917286)
 
