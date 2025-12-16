@@ -14,6 +14,7 @@ Welcome to my GitHub repository 👋 . I am a passionate developer with a focus 
 | CLIP Semantic Risk Analysis | A project using CLIP to analyze risks semantically | [GitHub](https://github.com/bilgenurcakir/clip-semantic-risk-analysis) |
 | ML Hotel Booking Reservation | Machine learning project for hotel booking prediction and management | [GitHub](https://github.com/bilgenurcakir/ML-Hotel-Booking-Reservation-) |
 | Focusflow | Productivity tool to improve focus and workflow tracking | [GitHub](https://github.com/bilgenurcakir/Focusflow) |
+| US Opioid Overdose Death ML | ML project predicting US opioid overdose crude death rate using demographic and prescription data | [GitHub](https://github.com/bilgenurcakir/US_Opioid_Overdose_Deaths_ml) |
 
 ## Skills
 - **Programming Languages:** Python, JavaScript,Java,C
