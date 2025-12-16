@@ -1,23 +1,26 @@
-# 🍫 Welcome to My GitHub! ☕  
+# Bilgenur Çakır – GitHub Profile
 
-Hi there! 👋  
-I'm **Bilgenur Çakır**, a passionate developer exploring the sweet world of code. Here you'll find my projects, experiments, and a sprinkle of creativity.  
+Welcome to my GitHub repository. I am a passionate developer with a focus on **Machine Learning, AI, and Web Development**. Here you can find my projects, experiments, and contributions to the developer community.
 
-## 💻 About Me
+## About Me
 - 🎓 Student at **Bursa Technical University**
-- 🧠 Interested in **Machine Learning, AI, and Web Development**
-- 🌱 Currently learning **React Native & Deep Learning**
-- 📫 Reach me at **bilgenurcakir26@gmail.com**
+- 💡 Interested in **Machine Learning, Artificial Intelligence, and Frontend Development**
+- 🌱 Currently improving skills in **React Native and Deep Learning**
+- 📫 Contact: **bilgenurcakir26@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/bilgenur-çakır-27b917286](https://linkedin.com/in/bilgenur-çakır-27b917286)
 
-## 🍰 Featured Projects
-- **[Project 1](#)** – A fun project that does something awesome  
-- **[Project 2](#)** – Another tasty piece of code  
-- **[Project 3](#)** – Sweet and simple yet powerful  
+## Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| Project 1 | Brief description of the project | [GitHub](#) |
+| Project 2 | Brief description of the project | [GitHub](#) |
+| Project 3 | Brief description of the project | [GitHub](#) |
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/bilgenur-çakır-27b917286)  
-- [GitHub](https://github.com/bilgenurcakir)  
+## Skills
+- **Programming Languages:** Python, JavaScript
+- **Frameworks & Libraries:** React, React Native, PyTorch, TensorFlow
+- **Tools & Platforms:** Git, GitHub, VSCode, Colab
 
 ---
 
-✨ Stay curious and code with a smile! ✨
+Thank you for visiting my GitHub. I am always open to collaboration and learning new technologies.
