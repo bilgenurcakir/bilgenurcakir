@@ -12,14 +12,17 @@ Welcome to my GitHub repository. I am a passionate developer with a focus on **M
 ## Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Project 1 | Brief description of the project | [GitHub](#) |
-| Project 2 | Brief description of the project | [GitHub](#) |
-| Project 3 | Brief description of the project | [GitHub](#) |
+## Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| CLIP Semantic Risk Analysis | A project using CLIP to analyze risks semantically | [GitHub](https://github.com/bilgenurcakir/clip-semantic-risk-analysis) |
+| ML Hotel Booking Reservation | Machine learning project for hotel booking prediction and management | [GitHub](https://github.com/bilgenurcakir/ML-Hotel-Booking-Reservation-) |
+| Focusflow | Productivity tool to improve focus and workflow tracking | [GitHub](https://github.com/bilgenurcakir/Focusflow) |
 
 ## Skills
-- **Programming Languages:** Python, JavaScript
-- **Frameworks & Libraries:** React, React Native, PyTorch, TensorFlow
-- **Tools & Platforms:** Git, GitHub, VSCode, Colab
+- **Programming Languages:** Python, JavaScript,Java,C
+- **Frameworks & Libraries:** React Native, PyTorch, TensorFlow
+- **Tools & Platforms:** GitHub, VSCode, Colab
 
 ---
 
