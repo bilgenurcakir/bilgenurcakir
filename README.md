@@ -12,9 +12,6 @@ Welcome to my GitHub repository. I am a passionate developer with a focus on **M
 ## Projects
 | Project | Description | Link |
 |---------|-------------|------|
-## Projects
-| Project | Description | Link |
-|---------|-------------|------|
 | CLIP Semantic Risk Analysis | A project using CLIP to analyze risks semantically | [GitHub](https://github.com/bilgenurcakir/clip-semantic-risk-analysis) |
 | ML Hotel Booking Reservation | Machine learning project for hotel booking prediction and management | [GitHub](https://github.com/bilgenurcakir/ML-Hotel-Booking-Reservation-) |
 | Focusflow | Productivity tool to improve focus and workflow tracking | [GitHub](https://github.com/bilgenurcakir/Focusflow) |
