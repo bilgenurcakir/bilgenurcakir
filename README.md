@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🍫 Welcome to My GitHub! ☕  
 
-<!--
-**bilgenurcakir/bilgenurcakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+I'm **Bilgenur Çakır**, a passionate developer exploring the sweet world of code. Here you'll find my projects, experiments, and a sprinkle of creativity.  
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🎓 Student at **Bursa Technical University**
+- 🧠 Interested in **Machine Learning, AI, and Web Development**
+- 🌱 Currently learning **React Native & Deep Learning**
+- 📫 Reach me at **bilgenurcakir26@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍰 Featured Projects
+- **[Project 1](#)** – A fun project that does something awesome  
+- **[Project 2](#)** – Another tasty piece of code  
+- **[Project 3](#)** – Sweet and simple yet powerful  
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/bilgenur-çakır-27b917286)  
+- [GitHub](https://github.com/bilgenurcakir)  
+
+---
+
+✨ Stay curious and code with a smile! ✨
