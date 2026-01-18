@@ -14,7 +14,7 @@ Welcome to my GitHub repository 👋 . I am a passionate developer with a focus 
 | Vehicle License Plate Security System | An AI-powered security system that uses YOLOv8 for vehicle and plate detection, EasyOCR for plate recognition, and the BLIP model to analyze vehicle color and brand for automated access control | [GitHub](https://github.com/bilgenurcakir/clip-semantic-risk-analysis) |
 | CLIP Semantic Risk Analysis | A project using CLIP to analyze risks semantically | [GitHub](https://github.com/bilgenurcakir/clip-semantic-risk-analysis) |
 | ML Hotel Booking Reservation | Machine learning project for hotel booking prediction and management | [GitHub](https://github.com/bilgenurcakir/ML-Hotel-Booking-Reservation-) |
-| Focusflow | Productivity tool to improve focus and workflow tracking | [GitHub](https://github.com/bilgenurcakir/Focusflow) |
+| Focusflow | AI-integrated productivity tool to improve focus and workflow tracking. | [GitHub](https://github.com/bilgenurcakir/Focusflow) |
 | US Opioid Overdose Death ML | ML project predicting US opioid overdose crude death rate using demographic and prescription data | [GitHub](https://github.com/bilgenurcakir/US_Opioid_Overdose_Deaths_ml) |
 | Office Object Detection on Images | Custom object detection model trained on an office dataset with inference on images and live camera; includes training notebooks and inference scripts | [GitHub](https://github.com/bilgenurcakir/Office-Object-Detection-on-Images) | 
 
