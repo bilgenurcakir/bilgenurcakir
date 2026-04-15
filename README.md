@@ -7,7 +7,7 @@ Welcome to my GitHub repository 👋 . I am a passionate developer with a focus 
 - 💡 Interested in **Machine Learning, Artificial Intelligence, Frontend Development and CyberSecurity**
 - 📫 Contact: **bilgenurcakir26@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/bilgenur-çakır-27b917286](https://linkedin.com/in/bilgenur-çakır-27b917286)
-- 📝 Medium: [/medium.com/@bilgenurcakir26]( https://medium.com/@bilgenurcakir26)
+- 📝 Medium: [medium.com/@bilgenurcakir26]( https://medium.com/@bilgenurcakir26)
 
 
 ## Projects
